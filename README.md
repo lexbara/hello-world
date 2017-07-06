@@ -1,3 +1,3 @@
 # hello-world
-First Repository
-Practicing commit by making changes
+first repository
+practicing commit by making changes
